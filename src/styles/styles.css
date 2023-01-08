@@ -1,0 +1,23 @@
+@import "./variables.css";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* 1rem - 16px */
+
+header {
+    background: var(--primary-background) ;
+    padding: 1rem;
+}
+
+.header {
+    background: darkcyan;
+}
+
+
+main {
+    background:  var(--primary-background) ;
+}
